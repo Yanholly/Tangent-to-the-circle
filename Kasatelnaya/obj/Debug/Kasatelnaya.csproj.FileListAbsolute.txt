@@ -1,0 +1,13 @@
+C:\Users\Maxon\Documents\Visual Studio 2015\Projects\Kasatelnaya\Kasatelnaya\bin\Debug\Kasatelnaya.exe.config
+C:\Users\Maxon\Documents\Visual Studio 2015\Projects\Kasatelnaya\Kasatelnaya\obj\Debug\Kasatelnaya.exe
+C:\Users\Maxon\Documents\Visual Studio 2015\Projects\Kasatelnaya\Kasatelnaya\obj\Debug\Kasatelnaya.pdb
+C:\Users\m9kha\source\repos\Graphics\Kasatelnaya\Kasatelnaya\bin\Debug\Kasatelnaya.exe.config
+C:\Users\m9kha\source\repos\Graphics\Kasatelnaya\Kasatelnaya\bin\Debug\Kasatelnaya.exe
+C:\Users\m9kha\source\repos\Graphics\Kasatelnaya\Kasatelnaya\bin\Debug\Kasatelnaya.pdb
+C:\Users\m9kha\source\repos\Graphics\Kasatelnaya\Kasatelnaya\obj\Debug\Kasatelnaya.Form1.resources
+C:\Users\m9kha\source\repos\Graphics\Kasatelnaya\Kasatelnaya\obj\Debug\Kasatelnaya.Properties.Resources.resources
+C:\Users\m9kha\source\repos\Graphics\Kasatelnaya\Kasatelnaya\obj\Debug\Kasatelnaya.csproj.GenerateResource.cache
+C:\Users\m9kha\source\repos\Graphics\Kasatelnaya\Kasatelnaya\obj\Debug\Kasatelnaya.csproj.CoreCompileInputs.cache
+C:\Users\m9kha\source\repos\Graphics\Kasatelnaya\Kasatelnaya\obj\Debug\Kasatelnaya.exe
+C:\Users\m9kha\source\repos\Graphics\Kasatelnaya\Kasatelnaya\obj\Debug\Kasatelnaya.pdb
+C:\Users\m9kha\source\repos\Graphics\Kasatelnaya\Kasatelnaya\obj\Debug\Kasatelnaya.csprojAssemblyReference.cache
